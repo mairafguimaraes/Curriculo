@@ -35,7 +35,7 @@ CV05:{
 CV06:{
     nome:"Canais de Contato", 
     imagem:"https://cdn-icons-png.flaticon.com/256/4359/4359958.png ",
-    descrição:"Endereço:Centro, São Paulo/SP; Whatsapp: 11 97096 6826; E-mail:mairafguimaraes@gmail.com; Linkedin:https://www.linkedin.com/in/mairafguimaraes/, Github:https://github.com/mairafguimaraes.", 
+    descrição:"Endereço:Centro, São Paulo/SP Whatsapp: 11 97096 6826  E-mail:mairafguimaraes@gmail.com Linkedin:https://www.linkedin.com/in/mairafguimaraes/ Github:https://github.com/mairafguimaraes.", 
     },
 
 }; 
