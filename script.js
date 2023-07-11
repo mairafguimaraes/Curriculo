@@ -3,7 +3,7 @@ function carregaCurriculo(){
     CV01:{
         nome:"Dados Pessoais",
         imagem:"https://cdn-icons-png.flaticon.com/256/4392/4392501.png",
-        descrição:"Paulista - 34 anos. Inquieta, curiosa, leitora, cinéfila. Sempre fui reconhecida pela minha memória e organização, muito provavelmnente serei aquela pessoa que lembrará qual é o nome da linha 128 do Excel do evento do ano passado. Hoje em transição de carreira, de produção de eventos para a área de tecnologia, mais precisamente em programação front end e desenvolvimento web.",
+        descrição:"Paulista - 34 anos. Inquieta, curiosa, leitora, cinéfila. Sempre fui reconhecida pela minha memória e organização, muito provavelmente serei aquela pessoa que lembrará qual é o nome da linha 128 do Excel do evento do ano passado. Hoje em transição de carreira, de produção de eventos para a área de tecnologia, mais precisamente em programação front end e desenvolvimento web.",
     },
 
 CV02:{
@@ -35,7 +35,7 @@ CV05:{
 CV06:{
     nome:"Canais de Contato", 
     imagem:"https://cdn-icons-png.flaticon.com/256/4359/4359958.png ",
-    descrição:"Endereço: Rua Martins Fontes, 390, Centro, São Paulo/SP; Whatsapp: 11 97096 6826; E-mail:mairafguimaraes@gmail.com; Linkedin:https://www.linkedin.com/in/mairafguimaraes/ e Github:https://github.com/mairafguimaraes.", 
+    descrição:"Endereço:Centro, São Paulo/SP; Whatsapp: 11 97096 6826; E-mail:mairafguimaraes@gmail.com; Linkedin:https://www.linkedin.com/in/mairafguimaraes/ e Github:https://github.com/mairafguimaraes.", 
     },
 
 }; 
